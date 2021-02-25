@@ -23,7 +23,7 @@ Contact with me via these platforms!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fatihkayan20&count_private=true&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihkayan20&hide=html,python,jupyter notebook&layout=compact&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihkayan20&layout=compact&show_icons=true&theme=tokyonight">
   <a href="https://github.com/fatihkayan20/CarRent">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=fatihkayan20&repo=CarRent&show_icons=true&theme=tokyonight"</img>
   </a>
