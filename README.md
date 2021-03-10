@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... I am studying at Mehmet Akif Ersoy University
 - 🌱 I’m currently learning ... C#
 - 💬 Ask me about ... React NodeJs
-- 📫 How to reach me: ... [Instagram](https://www.instagram.com/fatih.kayann/)
+- 📫 How to reach me: ... [Instagram](https://www.instagram.com/fatihkayann20/)
 
