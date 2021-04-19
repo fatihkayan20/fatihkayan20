@@ -5,9 +5,9 @@
 
 
 # Hi 👋
-I'm Fatih! I am improving myself on projects related to web and mobile.
+I'm Fatih! I improve myself on projects related to web and mobile.
 
-Contact with me via these platforms! 
+Contact me via these platforms! 
 
   <a href="https://www.instagram.com/fatihkayann20/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img> </a>
   <a href="https://www.linkedin.com/in/fatihkayan/" target="_blank" rel="nofollow"><img alt="Fatih's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
