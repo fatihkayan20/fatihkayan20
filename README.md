@@ -40,14 +40,7 @@ Contact me via these platforms!
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></img>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></img>
 
 
 
@@ -76,8 +69,8 @@ Contact me via these platforms!
   <a href="https://github.com/fatihkayan20/CarRent">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=fatihkayan20&repo=CarRent&show_icons=true&theme=tokyonight"</img>
   </a>
-  <a href="https://github.com/fatihkayan20/fatihkayan20">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=fatihkayan20&repo=fatihkayan20&show_icons=true&theme=tokyonight"</img>
+  <a href="https://github.com/fatihkayan20/ReactNative-InstagramClone">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=fatihkayan20&repo=ReactNative-InstagramClone&show_icons=true&theme=tokyonight"</img>
   </a>
 </p>
 
