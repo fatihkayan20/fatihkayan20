@@ -50,8 +50,8 @@ Contact me via these platforms!
   <a href="https://github.com/fatihkayan20/CarRent">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=fatihkayan20&repo=CarRent&show_icons=true&theme=tokyonight"</img>
   </a>
-  <a href="https://github.com/fatihkayan20/ReactNative-InstagramClone">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=fatihkayan20&repo=ReactNative-InstagramClone&show_icons=true&theme=tokyonight"</img>
+  <a href="https://github.com/fatihkayan20/Instagram-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=fatihkayan20&repo=Instagram-clone&show_icons=true&theme=tokyonight"</img>
   </a>
 </p>
 
