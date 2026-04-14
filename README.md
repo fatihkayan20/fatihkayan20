@@ -36,27 +36,7 @@ Contact me via these platforms!
 
 
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <p>
-    <img src="https://streak-stats.demolab.com?user=fatihkayan20"/>
-</p>
-  <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihkayan20&hide=python&layout=compact&show_icons=true&theme=tokyonight">
-  </p>
-
-  <a href="https://github.com/fatihkayan20/twitter-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=fatihkayan20&repo=twitter-clone&show_icons=true&theme=tokyonight"</img>
-  </a>
-  
-  <a href="https://github.com/fatihkayan20/CarRent">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=fatihkayan20&repo=CarRent&show_icons=true&theme=tokyonight"</img>
-  </a>
-  <a href="https://github.com/fatihkayan20/Instagram-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=fatihkayan20&repo=Instagram-clone&show_icons=true&theme=tokyonight"</img>
-  </a>
-</p>
 
 
 
